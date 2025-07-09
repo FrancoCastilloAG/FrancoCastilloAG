@@ -57,9 +57,7 @@ Desarrollé soluciones de automatización RPA para centros de contacto.
 ## ⚽ Actividades extracurriculares
 
 - 🏀 Jugador de básquetbol seleccionado UCN  
-- 🔥 Dirigente scout en Grupo “Diaguitas”  
 - 🤝 Representante del Club Deportivo Kayros  
-- 🧢 Miembro activo del grupo scout desde 2009  
 
 ---
 
@@ -67,7 +65,7 @@ Desarrollé soluciones de automatización RPA para centros de contacto.
 
 - 📧 franco.castillo2811@gmail.com  
 - 📱 +56 9 8901 3937  
-- 🌐 [LinkedIn (opcional si tienes)](https://www.linkedin.com/in/tu-perfil)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/franco-gustavo-alexis-castillo-astorga/)
 
 ---
 
